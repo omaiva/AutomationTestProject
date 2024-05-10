@@ -1,0 +1,6 @@
+@AutomationTestProject_HostAddress = https://localhost:5222
+
+GET {{AutomationTestProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
